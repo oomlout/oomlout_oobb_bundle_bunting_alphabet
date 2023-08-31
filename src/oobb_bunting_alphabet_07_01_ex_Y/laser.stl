@@ -4689,6 +4689,20 @@ solid OpenSCAD_Model
       vertex 47.1869 2.05364 0
     endloop
   endfacet
+  facet normal 0 -1 0
+    outer loop
+      vertex 44.8116 2.99408 0
+      vertex 45.1884 2.99408 1
+      vertex 44.8116 2.99408 1
+    endloop
+  endfacet
+  facet normal 0 -1 -0
+    outer loop
+      vertex 45.1884 2.99408 1
+      vertex 44.8116 2.99408 0
+      vertex 45.1884 2.99408 0
+    endloop
+  endfacet
   facet normal -0.587768 -0.80903 0
     outer loop
       vertex 46.6075 2.53298 0
@@ -5039,6 +5053,20 @@ solid OpenSCAD_Model
       vertex 45.5621 -2.94686 0
     endloop
   endfacet
+  facet normal -0.770436 0.637518 0
+    outer loop
+      vertex 47.1869 -2.05364 0
+      vertex 47.4271 -1.76336 1
+      vertex 47.4271 -1.76336 0
+    endloop
+  endfacet
+  facet normal -0.770436 0.637518 0
+    outer loop
+      vertex 47.4271 -1.76336 1
+      vertex 47.1869 -2.05364 0
+      vertex 47.1869 -2.05364 1
+    endloop
+  endfacet
   facet normal -0.904838 -0.425756 0
     outer loop
       vertex 47.7893 1.10437 0
@@ -5065,20 +5093,6 @@ solid OpenSCAD_Model
       vertex 47.7893 1.10437 1
       vertex 47.9058 0.746069 0
       vertex 47.9058 0.746069 1
-    endloop
-  endfacet
-  facet normal 0 -1 0
-    outer loop
-      vertex 44.8116 2.99408 0
-      vertex 45.1884 2.99408 1
-      vertex 44.8116 2.99408 1
-    endloop
-  endfacet
-  facet normal 0 -1 -0
-    outer loop
-      vertex 45.1884 2.99408 1
-      vertex 44.8116 2.99408 0
-      vertex 45.1884 2.99408 0
     endloop
   endfacet
   facet normal -0.998019 0.0629072 0
@@ -5233,20 +5247,6 @@ solid OpenSCAD_Model
       vertex 42.5729 -1.76336 0
       vertex 42.8131 -2.05364 1
       vertex 42.8131 -2.05364 0
-    endloop
-  endfacet
-  facet normal -0.770436 0.637518 0
-    outer loop
-      vertex 47.1869 -2.05364 0
-      vertex 47.4271 -1.76336 1
-      vertex 47.4271 -1.76336 0
-    endloop
-  endfacet
-  facet normal -0.770436 0.637518 0
-    outer loop
-      vertex 47.4271 -1.76336 1
-      vertex 47.1869 -2.05364 0
-      vertex 47.1869 -2.05364 1
     endloop
   endfacet
   facet normal 0.368207 0.929744 -0
