@@ -1,5 +1,5 @@
 -   depth: 1
-    extra: X
+    extra: x
     pos:
     - 0
     - 0
@@ -10,7 +10,7 @@
     type: p
     width: 7
 -   both_holes: true
-    extra: X
+    extra: x
     height: 1
     holes:
     - all
